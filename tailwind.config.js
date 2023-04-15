@@ -8,6 +8,8 @@ module.exports = {
 			},
 			fontFamily: {
 				chivo: ["Chivo Mono", "cursive"],
+				poppins: ["Poppins", "cursive"],
+				roboto: ["Roboto", "cursive"],
 			},
 		},
 	},

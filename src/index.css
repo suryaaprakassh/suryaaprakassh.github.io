@@ -6,3 +6,16 @@
     @apply relative after:content-[""] after:absolute after:duration-200 after:w-5 after:h-0.5 after:left-1/2       after:-translate-x-1/2 after:bg-white      after:-bottom-1 after:rounded-sm hover:after:w-9 cursor-pointer;
   }
 }
+#skills-list li{
+  position: relative;
+}
+#skills-list li::after{
+  content:"";
+  position: absolute;
+  width:5px;
+  height:5px;
+  background-color: rgb(20 184 166);
+  left:-15px;
+  top:50%;
+  transform: translateY(-50%);
+}
