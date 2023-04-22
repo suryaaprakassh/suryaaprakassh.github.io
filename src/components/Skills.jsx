@@ -40,7 +40,7 @@ const Skills = () => {
 					<div
 						id="photo"
 						className="w-4/12 flex justify-center items-start relative">
-						<div className="bg-teal-700 rounded-md w-3/4 h-3/4 text-3xl text-slate-300 text-center py-14 leading-loose  absolute z-10 after:content-[''] after:absolute after:w-full after:h-full after:bg-slate-300 after:left-10 after:top-10 after:rounded-sm after:-z-1">
+						<div className="bg-teal-700 rounded-md w-3/4 h-3/4 text-3xl text-slate-300 text-center py-14 leading-loose  absolute z-10 after:content-[''] after:absolute after:w-full after:h-full after:bg-slate-300 after:left-10 after:top-10 after:rounded-sm ">
 							Sorry will be adding my photo!
 						</div>
 					</div>
